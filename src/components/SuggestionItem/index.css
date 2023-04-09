@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.arrow-image {
+  height: 16px;
+  width: 16px;
+}
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+  list-style: none;
+
+  width: 390px;
+}
+.button-style {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
